@@ -15,6 +15,7 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * Selenium WebDriver - for automated testing of web applications
 * Markdown
 * xPath Finder - xPath finding tool
+* Screenpresso - screen recorder program
 ## Tech skills
 * DevTools
 * Software testing
