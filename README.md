@@ -7,3 +7,26 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 ## Certificates
 Сertificate of completion of the course "Fundamentals of software testing" from PROMETHEUS Lviv IT School.
 ## Tools
+* Chrome DevTools - for testing and to improve bug reports
+* Git - a free and open source distributed version control system
+* GitHub - hosting website designed for programming projects using the Git version control system
+* IDE Pycharm - a free text editor
+* Selenium IDE - tool use to support automated testing
+* Selenium WebDriver - for automated testing of web applications
+* Markdown
+* xPath Finder - xPath finding tool
+## Tech skills
+* DevTools
+* Software testing
+* Creating test cases
+* Writing code based on test cases
+* Reporting bugs
+* Finding uniqe CSS Selectors and xPaths
+## My projects
+* challenge_portfolio_olena [LINK to project](https://github.com/OlenaHl/challenge_portfolio_olena) 
+* test_robotframework [LINK to project](https://github.com/OlenaHl/test_robotframework)
+## My test documentation
+* Test cases[LINK to Test cases](https://drive.google.com/drive/folders/1-Rt70tRmBXnb8u3sZe5uwkxNYYmFZGiZ?usp=sharing) 
+* Bug report[LINK to Bug report](https://drive.google.com/drive/folders/1VPQ8y1Q5qI6WwDGNCzs811tb24eIa4bv?usp=sharing)
+* Test report[LINK to Test report](https://drive.google.com/drive/folders/1VPQ8y1Q5qI6WwDGNCzs811tb24eIa4bv?usp=sharing) 
+* 
