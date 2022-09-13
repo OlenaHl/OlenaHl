@@ -23,6 +23,8 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * Writing code based on test cases
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
+* Refactor
+* Debugger
 ## My projects
 * challenge_portfolio_olena [LINK to project](https://github.com/OlenaHl/challenge_portfolio_olena) 
 * test_robotframework [LINK to project](https://github.com/OlenaHl/test_robotframework)
