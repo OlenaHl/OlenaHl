@@ -6,6 +6,7 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * Cours **“Dare IT Challenge: QA Automated Testing”**
 ## Certificates
 Сertificate of completion of the course "Fundamentals of software testing" from PROMETHEUS Lviv IT School.
+Сertificate of completion of the program Dare IT QA Challenge: QA Automated Testing.
 ## Tools
 * Chrome DevTools - for testing and to improve bug reports
 * Git - a free and open source distributed version control system
