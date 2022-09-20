@@ -5,7 +5,7 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * Course **"Fundamentals of software testing"** from PROMETHEUS Lviv IT School
 * Cours **“Dare IT Challenge: QA Automated Testing”**
 ## Certificates
-* Сertificate of completion of the course **"Fundamentals of software testing"** from PROMETHEUS Lviv IT School.
+* Сertificate of completion of the course **"Fundamentals of software testing"** from PROMETHEUS Lviv IT School [LINK to Сertificate](https://drive.google.com/file/d/1UkHNTPW9qHhF1FJDaKpPwupjxOSXtq47/view?usp=sharing) 
 * Сertificate of completion of the program **Dare IT QA Challenge: QA Automated Testing** [LINK to Сertificate](https://drive.google.com/file/d/1USdu3Ij2z7cxvCvEoyUQEvC4SdjUjMX3/view?usp=sharing)
 ## Tools
 * Chrome DevTools - for testing and to improve bug reports
