@@ -31,6 +31,6 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * test_robotframework [LINK to project](https://github.com/OlenaHl/test_robotframework)
 ## My test documentation
 * Test cases [LINK to Test cases](https://docs.google.com/spreadsheets/d/1nVIfzKVxBAUNuL7g-RyEg6Z-UX05nxhW/edit?usp=sharing&ouid=109731546458643607973&rtpof=true&sd=true) 
-* Bug report [LINK to Bug report](https://drive.google.com/drive/folders/1VPQ8y1Q5qI6WwDGNCzs811tb24eIa4bv?usp=sharing)
-* Test report [LINK to Test report](https://drive.google.com/drive/folders/1VPQ8y1Q5qI6WwDGNCzs811tb24eIa4bv?usp=sharing) 
+* Bug report [LINK to Bug report](https://drive.google.com/file/d/1MhJNOuCTMHeGxB-tz3gQ45KfVxvsCpbg/view?usp=sharing)
+* Test report [LINK to Test report](https://drive.google.com/file/d/1shF9l_aaS3xxeXS2wpFZil2z1FrOaBsc/view?usp=sharing) 
 
