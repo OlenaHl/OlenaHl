@@ -11,6 +11,7 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * Chrome DevTools - for testing and to improve bug reports
 * Git - a free and open source distributed version control system
 * GitHub - hosting website designed for programming projects using the Git version control system
+* Python 3 - a programming language 
 * IDE Pycharm - a free text editor
 * Selenium IDE - tool use to support automated testing
 * Selenium WebDriver - for automated testing of web applications
@@ -19,9 +20,11 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * Screenpresso - screen recorder program
 ## Tech skills
 * DevTools
+* Python 3 - basic knowledge
 * Software testing
 * Creating test cases
 * Writing code based on test cases
+* Robot framework - basic knowledge
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
 * Refactor
