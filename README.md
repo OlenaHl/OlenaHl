@@ -4,9 +4,11 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 ## Courses
 * Course **"Fundamentals of software testing"** from PROMETHEUS Lviv IT School
 * Course **“Dare IT Challenge: QA Automated Testing”**
+* Course **"The Fundamentals of Software Testing"** from QATestLab Training Center
 ## Certificates
 * Сertificate of completion of the course **"Fundamentals of software testing"** from PROMETHEUS Lviv IT School [LINK to Сertificate](https://drive.google.com/file/d/1UkHNTPW9qHhF1FJDaKpPwupjxOSXtq47/view?usp=sharing) 
 * Сertificate of completion of the program **Dare IT QA Challenge: QA Automated Testing** [LINK to Сertificate](https://drive.google.com/file/d/1USdu3Ij2z7cxvCvEoyUQEvC4SdjUjMX3/view?usp=sharing)
+* Сertificate of completion of the course **"The Fundamentals of Software Testing"** from QATestLab Training Center [LINK to Сertificate](https://drive.google.com/file/d/1U1HFcKYf3HadGdrQhav1IKKoG8h2B5cw/view?usp=drive_link) 
 ## Tools
 * Chrome DevTools - for testing and to improve bug reports
 * Git - a free and open source distributed version control system
@@ -18,6 +20,10 @@ My name is Olena Hlynska. For many years, I worked in the company for sales and 
 * Markdown
 * xPath Finder - xPath finding tool
 * Screenpresso - screen recorder program
+* TestRail - a web-based test case management tool
+* TestLink - a web-based and open source test case management tool 
+* Jira - a bug tracking tool that allows software developers to plan, track and work faster
+* MantisBT - an open source web-based bug tracking system
 ## Tech skills
 * DevTools
 * Python 3 - basic knowledge
